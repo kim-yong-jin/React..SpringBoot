@@ -29,6 +29,7 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	implementation group: 'com.google.guava', name: 'guava', version: '28.1-jre'
+	//commit Test2
 }
 
 tasks.named('test') {
